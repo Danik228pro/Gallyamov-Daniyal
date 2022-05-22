@@ -288,7 +288,7 @@ nav {
 .gradient:hover {
     background-color: lightcyan;
 }
-header nav {
+header nav a {
   padding-left: 10px;
   justify-content: space-around;
 }
