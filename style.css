@@ -18,6 +18,8 @@ header {
 
 nav {
   width: 546px;
+  justify-content: space-between;
+  display: flex;
 }
 
 nav a {
@@ -273,10 +275,7 @@ footer {
 a:hover {
   color: red;
 }
-nav {
-    display: flex;
-    justify-content: center;
-}
+
 .lol {
     background-color: #833ae1;
     border-radius: 20px;
@@ -287,7 +286,4 @@ nav {
 }
 .gradient:hover {
     background-color: lightcyan;
-}
-header nav a {
-  justify-content: space-around;
 }
