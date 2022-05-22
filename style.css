@@ -289,6 +289,5 @@ nav {
     background-color: lightcyan;
 }
 header nav a {
-  padding-left: 10px;
   justify-content: space-around;
 }
