@@ -281,7 +281,9 @@ a:hover {
 .lol {
     background-color: #833ae1;
     border-radius: 20px;
-    padding: 5px 15px 5px 15px
+    padding: 5px 15px 5px 15px;
+    text-decoration: none;
+    color: red;
 }
 .idea span {
     color: #a5dc31
